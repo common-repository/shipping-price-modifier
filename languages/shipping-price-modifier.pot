@@ -1,0 +1,98 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DynoWP Shipping Price Modifier\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-16 00:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: shipping-price-modifier"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:86
+msgid "Action to Perform"
+msgstr ""
+
+#: admin/dynowp-shipping-price-modifier-settings.php:38
+msgid "Adjust the shipping cost as you prefer"
+msgstr ""
+
+#: admin/dynowp-shipping-price-modifier-settings.php:92
+msgid "Apply Discount"
+msgstr ""
+
+#: admin/dynowp-shipping-price-modifier-settings.php:43
+msgid "Apply Shipping Cost Changes"
+msgstr ""
+
+#: admin/dynowp-shipping-price-modifier-settings.php:73
+msgid "Discount Type"
+msgstr ""
+
+#. Name of the plugin
+msgid "DynoWP Shipping Price Modifier"
+msgstr ""
+
+#. Author of the plugin
+msgid "Dyogo Macedo"
+msgstr ""
+
+#: admin/dynowp-shipping-price-modifier-settings.php:106
+msgid "Enable Logging"
+msgstr ""
+
+#: admin/dynowp-shipping-price-modifier-settings.php:66
+msgid "Enable Shipping Modification?"
+msgstr ""
+
+#: admin/dynowp-shipping-price-modifier-settings.php:99
+msgid "Enter Value"
+msgstr ""
+
+#: admin/dynowp-shipping-price-modifier-settings.php:78
+msgid "Fixed Value"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://dyogomacedo.com.br"
+msgstr ""
+
+#: admin/dynowp-shipping-price-modifier-settings.php:91
+msgid "Increase Shipping Cost"
+msgstr ""
+
+#: admin/dynowp-shipping-price-modifier-settings.php:79
+msgid "Percentage"
+msgstr ""
+
+#: shipping-price-modifier.php:47
+msgid "Settings"
+msgstr ""
+
+#: admin/dynowp-shipping-price-modifier-settings.php:27
+msgid "Shipping Modifier"
+msgstr ""
+
+#: admin/dynowp-shipping-price-modifier-settings.php:26
+msgid "Shipping Price Modifier Settings"
+msgstr ""
+
+#: admin/dynowp-shipping-price-modifier-settings.php:58
+msgid "Shipping Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid "Um plugin para modificar o valor do frete no WooCommerce."
+msgstr ""
+
+#: admin/dynowp-shipping-price-modifier-settings.php:155
+msgid "View logs in WooCommerce > Status > Logs"
+msgstr ""
